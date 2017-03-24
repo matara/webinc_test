@@ -3,15 +3,16 @@ Thank you for your interest in Weblinc.
 
 This is a small problem that we would like you to solve so that we can get an idea of your coding ability.
 Your submission will be run in a clean environment to see if it produces the expected output.
-Please be sure to provide instructions for installing any dependancies.
+Please be sure to provide instructions for installing any dependencies.
 
 What we look for
 ----------------
-We will be looking at the quality and professionalism of your work. In particular we look for clean, well-designed, maintainable code. Although this is a rather small task, it should be approached as you would an actual task for a customer.
+We will be looking at the quality and professionalism of your work. In particular we look for clean, well-designed, 
+maintainable code. Although this is a rather small task, it should be approached as you would an actual task for a customer.
 
 When you are finished
 ----------------------
-Please zip and send the entire directory including the .git folder.
+Please commit, zip, and send the entire directory including the .git folder.
 
 The Problem
 ===========
@@ -41,11 +42,9 @@ tie for 3rd place in the sample data).
 
 Guidelines
 -----------
-This should be implemented in a language with which you are familiar. We strongly
-prefer that you use ruby.
+This should be implemented in ruby.
 
-Your solution should be able to be run (and if applicable, built) from the
-command line. Please include appropriate scripts and instructions for
+Your solution should be able to be run from the command line. Please include appropriate scripts and instructions for
 running your application and your tests.
 
 If you use other libraries installed by rubygems/bundler it is not necessary to
@@ -61,6 +60,3 @@ Platform support
 ----------------
 This will be run in a unix-ish environment (OS X).
 
-Questions?
-----------
-Please email mplatt@weblinc.com if you have any questions.
