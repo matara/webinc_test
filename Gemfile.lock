@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.8.3)
+    minitest-stub_any_instance (1.0.1)
+    thor (0.19.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  minitest-stub_any_instance
+  thor
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.14.6
